@@ -1,3 +1,3 @@
 # Open Financial Planning 🧮
 
-We craft open-source tools for personal financial planning purposes.
+We craft open-source tools for financial planning purposes.
